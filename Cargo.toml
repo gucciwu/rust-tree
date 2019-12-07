@@ -1,0 +1,6 @@
+[package]
+name = "Rust Tree"
+version = "0.0.1"
+authors = ["Architech Team @ EMan"]
+
+[dependencies]
