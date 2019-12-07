@@ -21,7 +21,6 @@ A tool for manage tree structure in easy and fast way with [Rust](https://www.ru
 ```
 
 # 4. Configuration
-All configuration is in [RustTree.toml](RustTree.toml)
 
 - `api_root(string)`:   a prefix for API endpoint, default is 'api'
 
