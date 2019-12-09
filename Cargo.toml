@@ -1,6 +1,6 @@
 [package]
-name = "Rust Tree"
+name = "rust_tree"
 version = "0.0.1"
-authors = ["Architech Team @ EMan"]
+authors = ["EMan Architech Team"]
 
 [dependencies]
